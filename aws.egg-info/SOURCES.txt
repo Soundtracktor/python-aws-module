@@ -1,0 +1,8 @@
+LICENSE
+setup.py
+aws/aws.py
+aws.egg-info/PKG-INFO
+aws.egg-info/SOURCES.txt
+aws.egg-info/dependency_links.txt
+aws.egg-info/requires.txt
+aws.egg-info/top_level.txt
