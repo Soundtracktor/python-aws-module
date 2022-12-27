@@ -1,6 +1,6 @@
 LICENSE
+README.md
 setup.py
-aws/aws.py
 aws.egg-info/PKG-INFO
 aws.egg-info/SOURCES.txt
 aws.egg-info/dependency_links.txt
